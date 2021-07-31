@@ -6,8 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-# Config Files
+# 5Paisa Files
 *.conf
+*.csv
 
 # Distribution / packaging
 .Python
